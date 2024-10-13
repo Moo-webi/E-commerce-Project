@@ -1,2 +1,19 @@
-# E-commerce-Project
-This project is a fully functional e-commerce platform built using the Django framework. It provides a seamless shopping experience with essential e-commerce features. The platform allows users to browse products, add items to the cart.
+# djackets_vue
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
